@@ -1,0 +1,6 @@
+[project]
+name = "aviationweather"
+version = "0.1"
+description = "Parsers for aviation weather reports and forecasts"
+readme = "README.md"
+requires-python = ">=3.8"
